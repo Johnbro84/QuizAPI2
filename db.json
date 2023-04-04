@@ -1,0 +1,124 @@
+{
+  [
+    {
+      "questionType": "multiple_choice",
+      "questionText": "What is the HTML element used to display a paragraph?",
+      "correctAnswer": "<p>",
+      "choices": ["<span>", "<h1>", "<p>", "<br>"]
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "To change the family of a text's font, what style attribute should you use to do this?",
+      "correctAnswer": "font-family",
+      "options": ["color", "font-family", "font-size", "text-align"]
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What is the HTML element used a section of an HTML page? Type your answer like: <tagname>?",
+      "correctAnswer": "<div>"
+      "answerFieldId": "answer_to_question"
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "If you wanted to add a internal style or script onto an HTML page, the tags should be in what HTML element? Type your answer like: <tagname>",
+      "correctAnswer": "<head>",
+      "answerFieldId": "answer_to_question"
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "If you want to include a checkbox using <form>, the input type you should use is radio. True or False?",
+      "correctAnswer": "false",
+      "options": ["true", "false"]
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "<script> is used to link a external Javascript file to the HTML file. True or False?",
+      "correctAnswer": "true",
+      "options": ["true", "false"]
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of the following is NOT an input type for a form input?",
+      "correctAnswer": "video",
+      "choices": ["checkbox", "text", "button", "video"]
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "What does CSS stand for?",
+      "correctAnswer": "Cascading Style Sheets",
+      "choices": ["Casual Style Sheets", "Cascading Style Sheets", "Cascading Style Styles", "Cascading Language Style"]
+    },
+    {
+      "questionType": "fill_in_blank",
+      "questionText": "The _____ property changes the horizontal alignment of a text.",
+      "correctAnswer": "text-align",
+      "answerFieldId": "answer_to_question"
+    },
+    {
+      "questionType": "fill_in_blank",
+      "questionText": "What HTML attribute completes this syntax: <a ____='www.Google.com/'>?",
+      "correctAnswer": "href"
+      "answerFieldId": "answer_to_question"
+    },
+    {
+      "questionType": "narrative",
+      "questionText": "You are working on a Javascript file on your preferred web application tool. You want to create a constant variable within the script. What would you use to declare this, const or var?",
+      "correctAnswer": "const",
+      "answers": ["const", "var"]
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of the following is NOT a way to define functions?",
+      "correctAnswer": "function syntax",
+      "choices": ["function expression", "function declaration", "arrow syntax", "function syntax"]
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What HTML element is used to make an ordered list? Type your answer like: <tagname>",
+      "correctAnswer": "<ol>",
+      "answerFieldId": "answer_to_question"
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "To change the color of a button using bootstrap, you would have to change btn-btn-primary to btn-btn-success in the code. True or False?",
+      "correctAnswer": "true",
+      "options": ["true", "false"]
+    },
+    {
+      "questionType": "true_false",
+      "questionText": "<iframe> is one of the ways you can include a video onto an HTML page. True or False?",
+      "correctAnswer": "true",
+      "options": ["true", "false"]
+    },
+    {
+      "questionType": "fill_in_blank",
+      "questionText": "The ______ attribute shows where the image to be displayed is located",
+      "correctAnswer": "src",
+      "answerFieldId": "answer_to_question"
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "Which of the following is an class selector for CSS?",
+      "correctAnswer": ".h1",
+      "choices": ["h1", ".h1", "*", "#h1"]
+    },
+    {
+      "questionType": "multiple_choice",
+      "questionText": "When using responsive design in CSS, what tag should you use to control the viewport?",
+      "correctAnswer": "<meta>",
+      "choices": ["<link>", "<script>", "<meta>", "<style>"]
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What is the acronym used for allowing Javascript objects to be used in text format?",
+      "correctAnswer": "JSON",
+      "answerFieldId": "answer_to_question"
+    },
+    {
+      "questionType": "text_input",
+      "questionText": "What HTML element is used to access an external CSS file? Type your answer like: <tagname>",
+      "correctAnswer": "<link>",
+      "answerFieldId": "answer_to_question"
+    } 
+  ]
+}
