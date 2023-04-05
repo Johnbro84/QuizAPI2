@@ -15,7 +15,7 @@
     {
       "questionType": "text_input",
       "questionText": "What is the HTML element used a section of an HTML page? Type your answer like: <tagname>?",
-      "correctAnswer": "<div>"
+      "correctAnswer": "<div>",
       "answerFieldId": "answer_to_question"
     },
     {
@@ -57,7 +57,7 @@
     {
       "questionType": "fill_in_blank",
       "questionText": "What HTML attribute completes this syntax: <a ____='www.Google.com/'>?",
-      "correctAnswer": "href"
+      "correctAnswer": "href",
       "answerFieldId": "answer_to_question"
     },
     {
